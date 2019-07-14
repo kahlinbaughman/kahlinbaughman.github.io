@@ -16,4 +16,4 @@ This guide, while containing a decent amount of information, should be used as a
 
 To use Jekyll, one must have Jekyll. The Jekyll website(**link this**) has a very handy "Quick Start" instructions on the home page, but I found that to be misleading. I recommend ignoring that going to the official installation page here(**link it**).
 
-For our guide we will be focusing on the 
+For our guide we will be focusing on the Ubuntu installation instructions. The instructions can be found here(**LINK**). It is important to know that Jekyll is built using the language ruby and thus has the ability to use Ruby "Gems" with it. I won't go into detail what a Gem is but more information can be found here(**Link**).

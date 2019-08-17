@@ -3,6 +3,7 @@ layout: post
 title:  "Setting up a website with Jekyll"
 date:   2019-07-05 20:59:21 -1000
 categories: posts
+
 ---
 # Why a guide?
 
@@ -14,6 +15,6 @@ This guide, while containing a decent amount of information, should be used as a
 
 # Getting Jekyll and setting up
 
-To use Jekyll, one must have Jekyll. The Jekyll website(**link this**) has a very handy "Quick Start" instructions on the home page, but I found that to be misleading. I recommend ignoring that going to the official installation page here(**link it**).
+To use Jekyll, one must have Jekyll. The Jekyll [website](https://jekyllrb.com/) has a very handy "Quick Start" instructions on the home page, but I found that to be misleading. I recommend ignoring that going to the official installation page [here](https://jekyllrb.com/docs/installation/).
 
-For our guide we will be focusing on the Ubuntu installation instructions. The instructions can be found here(**LINK**). It is important to know that Jekyll is built using the language ruby and thus has the ability to use Ruby "Gems" with it. I won't go into detail what a Gem is but more information can be found here(**Link**).
+For our guide we will be focusing on the Ubuntu installation instructions. The instructions can be found [here](https://jekyllrb.com/docs/installation/ubuntu/). It is important to know that Jekyll is built using the language ruby and thus has the ability to use Ruby "Gems" with it. I won't go into detail what a Gem is but more information can be found [here](https://jekyllrb.com/docs/ruby-101/).
